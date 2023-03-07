@@ -1,7 +1,8 @@
 Hi There.
 Pleased to meet you!
-I am a highly driven individual that can never get enough from learning new things daily. I have accomplished a National Diploma in Information Technology. Even though i do not carry out many experiences in the Technology world, i am egar and hungry for new knowledge, experiences and skills. I desire to find a position that will enable me to further myself professionally and prove to be a valuable asset in any endeavor.
-▼ Experience
+I am a highly driven individual that can never get enough from learning new things daily. I have accomplished a National Diploma in Information Technology. Even though i do not carry out many experiences in the Technology world,however, i am egar and hungry for new knowledge, experiences and skills. I desire to find a position that will enable me to further myself professionally and prove to be a valuable asset in any endeavor.
+
+Experience
 01 July 2019–Current
 Services Administrator• Administrator/Projects • BCX
 •	Claim processing – on SAP capturing of standbys, overtime and leave for technicians 
@@ -36,7 +37,8 @@ Administrator• Admin and filing • Coparex Pty Ltd
 •	Receiving and sending of emails
 •	Ensuring filing on order
 •	Searching of tenders
-▼ Education
+
+Education
 
 Khano Training Institute
 December 2022 – November 2023
@@ -54,10 +56,10 @@ Tongaat Secondary School
 January 2007 – December 2010
 •	Diploma Pass
 
-
-▼ Leadership
+Leadership
 Represented high school as a Team Leader
-▼ References
+
+References
 Jason Cooper (BCX Branch Manager) – 08302265617
 Dr Rajesh Singh (Doctor) – 0835602584
 Theshnie Govender (Corparex) - 0743205692
